@@ -1,6 +1,6 @@
-## Projeto Mata-Mosca
+## Projetos utilizando JavaScript
 
-Projeto do curso Desenvolvimento Web Completo Udemy, usando apenas Html, Css e JavaScript
+Projetso do curso Desenvolvimento Web Completo Udemy, usando apenas Html, Css e JavaScript
 
 [ Projeto MataMosca ](https://vitordof.github.io/ProjetoJavaScript/ProjetoMataMosca/)
 <br>
